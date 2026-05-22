@@ -1,0 +1,6 @@
+{
+  "name": "MatchUp (청년 사업 자동 매칭 서비스)",
+  "description": "학업, 취업 준비 등으로 바쁜 청년/대학생들을 위해 나이, 거주지, 소득수준에 맞는 정부 지원 혜택을 실시간으로 자동으로 매칭하고 자격 조건을 분석해주는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
